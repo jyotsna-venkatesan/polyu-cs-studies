@@ -1,263 +1,80 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PolyU CS Studies</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap');
+<div align="center">
 
-        body {
-            font-family: 'Inter', sans-serif;
-            line-height: 1.6;
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 2rem;
-            background: #fafafa;
-            color: #333;
-        }
+# ⚡️ polyu cs studies
 
-        .container {
-            opacity: 0;
-            animation: fadeIn 1s ease-in forwards;
-        }
+*exploring computer science @ polyu • 2022-2026*
 
-        .section {
-            margin: 2rem 0;
-            padding: 1.5rem;
-            border-radius: 12px;
-            background: white;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-            transition: transform 0.2s ease;
-        }
+</div>
 
-        .section:hover {
-            transform: translateY(-2px);
-        }
+---
 
-        .semester {
-            margin: 1.5rem 0;
-            padding-left: 1rem;
-            border-left: 2px solid #eee;
-        }
+## 📚 program
+bachelor of science in computer science  
+minor in business economics  
+the hong kong polytechnic university
 
-        .course {
-            display: flex;
-            align-items: center;
-            margin: 0.8rem 0;
-            padding: 0.5rem;
-            border-radius: 6px;
-            transition: background 0.2s ease;
-        }
+---
 
-        .course:hover {
-            background: #f5f5f5;
-        }
+## 💫 coursework
 
-        .course-code {
-            font-family: monospace;
-            color: #666;
-            margin-right: 1rem;
-            padding: 0.2rem 0.5rem;
-            background: #f0f0f0;
-            border-radius: 4px;
-            font-size: 0.9em;
-        }
+### ✧ year one
+<details>
+<summary>semester 1</summary>
 
-        h1, h2, h3 {
-            font-weight: 500;
-            color: #2c3e50;
-        }
+- `ama1104` introductory probability	
+- `apss1l01` tomorrow's leaders
+- `comp1002` computational thinking and problem solving
+- `comp1004` introduction to AI and data analytics
+- `elc1013` english for university studies
+- `mm1031` innovation and entrepreneurship
+</details>
 
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 0.5rem;
-        }
+<details>
+<summary>semester 2</summary>
 
-        h2 {
-            font-size: 1.8rem;
-            margin: 2rem 0 1rem;
-        }
+- `apss1bn18` global new urbanism	
+- `clc1151` chinese i
+- `comp1011` programming fundamentals
+- `comp1411` introduction to computer systems
+- `comp1433` introduction to data analytics	
+</details>
 
-        h3 {
-            font-size: 1.3rem;
-            color: #34495e;
-        }
+### ✧ year two
+<details>
+<summary>semester 1</summary>
 
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(10px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
+- `comp2011` data structures	
+- `comp2012` discrete mathematics
+- `comp2021` object-oriented programming
+- `comp2411` database systems
+- `comp2s01` technology beyond borders
+</details>
 
-        .header {
-            text-align: center;
-            margin-bottom: 3rem;
-        }
+<details>
+<summary>semester 2</summary>
 
-        .subtitle {
-            color: #666;
-            font-size: 1.1rem;
-        }
+- `af1605` introduction to economics	
+- `apss1a04` understanding ethics in daily life
+- `comp2322` computer networking
+- `comp2421` computer organization
+- `comp2432` operating systems
+- `comp2s01` technology beyond borders
+</details>
 
-        .year-label {
-            display: inline-block;
-            padding: 0.2rem 0.8rem;
-            background: #f8f9fa;
-            border-radius: 20px;
-            font-size: 0.9rem;
-            color: #666;
-            margin-bottom: 1rem;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <h1>polyu cs studies</h1>
-            <p class="subtitle">computer science with business economics minor</p>
-            <span class="year-label">2022 - 2026</span>
-        </div>
+### ✧ year three
+<details>
+<summary>semester 1</summary>
 
-        <div class="section">
-            <h2>year one</h2>
-            <div class="semester">
-                <h3>semester 1</h3>
-                <div class="course">
-                    <span class="course-code">ama1104</span>
-                    <span>introductory probability</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">apss1l01</span>
-                    <span>tomorrow's leaders</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp1002</span>
-                    <span>computational thinking and problem solving</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp1004</span>
-                    <span>introduction to artificial intelligence and data analytics</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">elc1013</span>
-                    <span>english for university studies</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">mm1031</span>
-                    <span>introduction to innovation and entrepreneurship</span>
-                </div>
-            </div>
+- `ama1d07` introduction to cosmology
+- `comp4123` business processes and workflow
+- `cbs1m41` chinese language: myths vs facts
+- `comp3423` human computer interaction
+- `comp3211` software engineering
+- `comp3438` system programming
+</details>
 
-            <div class="semester">
-                <h3>semester 2</h3>
-                <div class="course">
-                    <span class="course-code">apss1bn18</span>
-                    <span>from gloom to bloom: global new urbanism</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">clc1151</span>
-                    <span>chinese i</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp1011</span>
-                    <span>programming fundamentals</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp1411</span>
-                    <span>introduction to computer systems</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp1433</span>
-                    <span>introduction to data analytics</span>
-                </div>
-            </div>
-        </div>
+---
 
-        <div class="section">
-            <h2>year two</h2>
-            <div class="semester">
-                <h3>semester 1</h3>
-                <div class="course">
-                    <span class="course-code">comp2011</span>
-                    <span>data structures</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp2012</span>
-                    <span>discrete mathematics</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp2021</span>
-                    <span>object-oriented programming</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp2411</span>
-                    <span>database systems</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp2s01</span>
-                    <span>technology beyond borders</span>
-                </div>
-            </div>
-
-            <div class="semester">
-                <h3>semester 2</h3>
-                <div class="course">
-                    <span class="course-code">af1605</span>
-                    <span>introduction to economics</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">apss1a04</span>
-                    <span>understanding ethics in daily life</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp2322</span>
-                    <span>computer networking</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp2421</span>
-                    <span>computer organization</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp2432</span>
-                    <span>operating systems</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp2s01</span>
-                    <span>technology beyond borders</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="section">
-            <h2>year three</h2>
-            <div class="semester">
-                <h3>semester 1</h3>
-                <div class="course">
-                    <span class="course-code">ama1d07</span>
-                    <span>introduction to cosmology</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp4123</span>
-                    <span>business processes and workflow management</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">cbs1m41</span>
-                    <span>chinese language: myths vs facts</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp3423</span>
-                    <span>human computer interaction</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp3211</span>
-                    <span>software engineering</span>
-                </div>
-                <div class="course">
-                    <span class="course-code">comp3438</span>
-                    <span>system programming</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+<div align="center">
+<i>developed with ♡ by [your-username]</i>
+</div>
