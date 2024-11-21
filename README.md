@@ -1,21 +1,21 @@
 <div align="center">
 
-# ⚡️ polyu cs studies
+# 🤍 polyu cs studies
 
-*exploring computer science @ polyu • 2022-2026*
+*computer science @ polyu • 2022-2026*
 
 </div>
 
 ---
 
-## 📚 program
+## 🌷͙ program
 bachelor of science in computer science  
 minor in business economics  
 the hong kong polytechnic university
 
 ---
 
-## 💫 coursework
+## ✩ coursework
 
 ### ✧ year one
 <details>
@@ -76,5 +76,5 @@ the hong kong polytechnic university
 ---
 
 <div align="center">
-<i>developed with ♡ by [your-username]</i>
+<i>by jyotsna</i>
 </div>
