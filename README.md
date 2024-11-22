@@ -8,14 +8,14 @@
 
 ---
 
-## 🌷͙ program
+## 🪷 program
 bachelor of science in computer science  
 minor in business economics  
 the hong kong polytechnic university
 
 ---
 
-## ✩ coursework
+## 🪷 coursework
 
 ### ✧ year one
 <details>
